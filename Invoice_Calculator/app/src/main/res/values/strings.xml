@@ -1,0 +1,103 @@
+<resources>
+    <string name="app_name">Invoice_Calculator</string>
+    <string name="BTN_Start">開始兌獎</string>
+    <string name="Select_Month">請選擇兌獎月份</string>
+    <string name="TV_3">輸入號碼 :</string>
+    <string name="BTN_Repick_Month">重新選擇月份</string>
+    <string name="BTN_Result">中獎結果</string>
+    <string name="EditText_Hint">輸入發票後三碼</string>
+    <string name="BTN_Re_Input">重新輸入號碼</string>
+
+    <string name="TV_Rule">
+        特別獎:發票所有號碼和特別獎號相同\n
+        特獎:發票所有號碼和特獎號相同\n
+        頭獎:發票所有號碼和頭獎號相同\n
+        二獎:發票後7碼和頭獎的相同\n
+        三獎:發票後6碼和頭獎的相同\n
+        四獎:發票後5碼和頭獎的相同\n
+        五獎:發票後4碼和頭獎的相同\n
+        六獎:發票後3碼和頭獎的相同\n\n
+        特別獎:1000萬元\n
+        特獎:200萬元\n
+        頭獎:20萬元\n
+        二獎:4萬元\n
+        三獎:1萬元\n
+        四獎:4000元\n
+        五獎:1000元\n
+        六獎:200元\n
+    </string>
+    <string name="BTN_Rule">中獎規則</string>
+    <string name="TV_Result">中獎結果 :</string>
+
+    <string-array name="Month_Option">
+        <item>2018 1~2月</item>
+        <item>2018 3~4月</item>
+        <item>2018 5~6月</item>
+        <item>2018 7~8月</item>
+        <item>2018 9~10月</item>
+        <item>2018 11~12月</item>
+    </string-array>
+
+    <string-array name="Month_1_2">
+        <item>21735266</item>
+        <item>91874254</item>
+        <item>56065209</item>
+        <item>05739340</item>
+        <item>69001612</item>
+        <item>591</item>
+        <item>342</item>
+    </string-array>
+
+    <string-array name="Month_3_4">
+        <item>12342126</item>
+        <item>80740977</item>
+        <item>36822639</item>
+        <item>38786238</item>
+        <item>87204837</item>
+        <item>991</item>
+        <item>715</item>
+    </string-array>
+
+    <string-array name="Month_5_6">
+        <item>20048019</item>
+        <item>02142605</item>
+        <item>21240109</item>
+        <item>78323535</item>
+        <item>18549847</item>
+        <item>706</item>
+        <item>574</item>
+    </string-array>
+
+    <string-array name="Month_7_8">
+        <item>73372972</item>
+        <item>22315462</item>
+        <item>91903003</item>
+        <item>16228722</item>
+        <item>03270598</item>
+        <item>163</item>
+        <item>983</item>
+        <item>814</item>
+    </string-array>
+
+    <string-array name="Month_9_10">
+        <item>96363025</item>
+        <item>69095110</item>
+        <item>96745865</item>
+        <item>98829035</item>
+        <item>45984442</item>
+        <item>292</item>
+        <item>650</item>
+        <item>230</item>
+    </string-array>
+
+    <string-array name="Month_11_12">
+        <item>88515559</item>
+        <item>47551146</item>
+        <item>83513656</item>
+        <item>85250862</item>
+        <item>61472404</item>
+        <item>185</item>
+        <item>079</item>
+        <item>442</item>
+    </string-array>
+</resources>
